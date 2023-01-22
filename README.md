@@ -1,2 +1,2 @@
-# pedes
-This repo is a joint project to develop a Ecommerce website for pedes.
+# Pedes
+This repo is a joint project to develop an E-commerce platform/website for Pedes.
